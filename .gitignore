@@ -27,3 +27,11 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+sym-lib-table
+fp-lib-table
+
+NT3H1101W0FHKH/
+production/
+
+.DS_Store
