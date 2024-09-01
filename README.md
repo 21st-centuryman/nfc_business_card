@@ -30,6 +30,6 @@ Feel free to copy my code and designs for your own.
 | **Id** | **Designator** | **Footprint** | **Quantity** | **Designation** |
 | --- | --- | --- | --- | --- |
 | 1 | U1 | NT3H1101 | 1 | NT3H1101W0FHKH |
-| 2 | R1 | R_0402_1005Metric | 1 | 47Ω |
+| 2 | R1 | R_0402_1005Metric | 1 | 70Ω |
 | 3 | D1 | LED_0402_1005Metric | 1 | LED |
 | 4 | C1 | C_0402_1005Metric | 1 | 200nF |
